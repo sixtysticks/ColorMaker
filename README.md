@@ -1,6 +1,6 @@
 # Color Maker
 
-#### Experimenting with UISliders and auto layout
+#### Nanodegree challenge app: UISliders and auto layout
 ***
 ![alt text](http://i.imgur.com/61gdCDx.gif "Color Maker")
 ***
